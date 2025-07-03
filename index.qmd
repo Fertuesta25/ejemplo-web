@@ -146,3 +146,7 @@ plot(slope, col = pal, main = 'Slope')
 plot(aoi$geometry, lwd = 2, add = T)
 ```
 :::
+
+# Resultados
+
+Ardieron 40,000 hectáreas
