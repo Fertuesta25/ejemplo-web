@@ -147,6 +147,6 @@ plot(aoi$geometry, lwd = 2, add = T)
 ```
 :::
 
-# Resultados
+## Resultados
 
 Ardieron 40,000 hectáreas
